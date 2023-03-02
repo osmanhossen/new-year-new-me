@@ -4,7 +4,7 @@
 }
 /* header styles start */
 header {
-  background-image: url(/images/banner/banner2.png);
+  background-image: url(./images/banner/banner2.png);
   background-repeat: no-repeat;
   background-position: left;
   width: 1600px;
